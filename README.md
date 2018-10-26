@@ -2,10 +2,10 @@
 
 ## TODO 
 ### Setting
-- [ ] JPA
-- [ ] H2
-- [ ] Init DB Script
+- [x] JPA
+- [x] H2
+- [x] Init DB Script
 
 ### Sample
-- [ ] Sample API
+- [x] Sample API
 - [ ] Test Code
